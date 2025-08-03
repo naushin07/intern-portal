@@ -2,16 +2,7 @@
 
 A clean and responsive full stack intern dashboard built with **React + Tailwind CSS** (frontend) and **Express.js** (backend) to fulfill Round 1 of the She Can Foundation internship challenge.
 
----
 
-## 💻 Live Demo
-
-> Replace these links once deployed:
-
-- **Frontend (Netlify/Vercel)**: https://your-frontend-url.netlify.app  
-- **Backend API (Render/Cyclic)**: https://your-backend-url.onrender.com
-
----
 
 ## 🚀 Features
 
@@ -43,18 +34,12 @@ A clean and responsive full stack intern dashboard built with **React + Tailwind
 git clone https://github.com/YOUR-USERNAME/intern-portal.git
 cd intern-portal
 🛠️ Start the Backend
-bash
-Copy
-Edit
 cd backend
 npm install
 node server.js
 API will be available at: http://localhost:5000/api/user
 
 🎨 Start the Frontend
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
